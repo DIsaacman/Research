@@ -45,7 +45,7 @@ Funds include:
   - Pure Alpha Major Markets Hedge Fund(US $10B)
   - 2011 Bridgewater Associates Fund III
 
-Bridgewater also had a funding round in the form of a grant where $22M was rasied in may of 2016.[^3]
+Bridgewater also had a funding round in the form of a grant where $22M was rasied in may of 2016. [^3]
   
 Bridgwater publishes a white paper, called the Daily Observations, which is read by investors worldwide on a subscription basis.
 
@@ -93,9 +93,9 @@ What solution does this company offer that their competitors do not or cannot of
 Sources
 
 [^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history, while also systematically building one of the great people organizations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
-[^2] When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
-[^3] https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
-[4^] Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analyzed](https://www.suredividend.com/bridgewater/)
+[^2]: When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
+[^3]: Funding https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
+[4^]: Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analyzed](https://www.suredividend.com/bridgewater/)
 
 ---
 
