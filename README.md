@@ -24,32 +24,32 @@ Bridgewater is a large financial services institute that has grown from a Hedge 
 ## Overview and Origin
 
 * Name of company
-- Birdgewater Associates 
+ - Birdgewater Associates 
 
 * When was the company incorporated?
-- 1975
+ - 1975
 
 * Who are the founders of the company?
-- Raymond Dalio
+ - Raymond Dalio
 
 * How did the idea for the company (or project) come about?
-- The name Bridgewater arose because he (Ray) initially attempted to sell commodities from the U.S. to other countries, therefore, they were ‘bridging the waters’. However, the company moved on to focus more on being a consultancy(/asset management) firm.[^2]
+ - The name Bridgewater arose because he (Ray) initially attempted to sell commodities from the U.S. to other countries, therefore, they were ‘bridging the waters’. However, the company moved on to focus more on being a consultancy(/asset management) firm.[^2]
 
 * How is the company funded? How much funding have they received?
-- The company was initially funded in 1987 by a Fixed Income Loan from Hilda Ochoa-Brillembourg (US $5M). 
-
-Since 1991 Bridgewater has raised several venture funds ($US ~200B) whereby they manage assets on behalf of soficsticated investors.
-
-According to crunchbase.com The company has rasied it's most recent capital ($1.3B) from a single venture fund (Birdgewater Associates Fund III) in Nov, 2021.
-
-Bridgewater also had a funding round in the form of a grant where $22M was rasied in may of 2016.[^3]
-
-Other Bridgewater funds include
-- 1991 Pure Alpha Hedge Fund
-- 1996 All Weather Hedge Fund (US $~30B)
-- Pure Alpha Major Markets Hedge Fund(US $10B)
-
-Bridgwater also publishes a white paper, called the Daily Observations, which is read by investors worldwide on a subscription basis.
+ - The company was initially funded in 1987 by a Fixed Income Loan from Hilda Ochoa-Brillembourg (US $5M). 
+ 
+ Since 1991 Bridgewater has raised several venture funds ($US ~200B) whereby they manage assets on behalf of soficsticated investors.
+ 
+ According to crunchbase.com The company has rasied it's most recent capital ($1.3B) from a single venture fund (Birdgewater Associates Fund III) in Nov, 2021.
+ 
+ Bridgewater also had a funding round in the form of a grant where $22M was rasied in may of 2016.[^3]
+ 
+ Other Bridgewater funds include
+  - 1991 Pure Alpha Hedge Fund
+  - 1996 All Weather Hedge Fund (US $~30B)
+  - Pure Alpha Major Markets Hedge Fund(US $10B)
+  
+  Bridgwater also publishes a white paper, called the Daily Observations, which is read by investors worldwide on a subscription basis.
 
 
 ## Business Activities:
@@ -94,10 +94,10 @@ What solution does this company offer that their competitors do not or cannot of
 
 Sources
 
-- [^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history, while also systematically building one of the great people organizations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
-- [^2] When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
--[^3] https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
-- [4^] Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analyzed](https://www.suredividend.com/bridgewater/)
+[^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history, while also systematically building one of the great people organizations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
+[^2] When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
+[^3] https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
+[4^] Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analyzed](https://www.suredividend.com/bridgewater/)
 
 ---
 
