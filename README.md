@@ -18,8 +18,7 @@ Bridgewater is a large financial services institute that has grown from a Hedge 
 - Wealth Management
 - Robo-advising
 
-
-```
+---
 
 
 ## Overview and Origin
@@ -37,9 +36,20 @@ Bridgewater is a large financial services institute that has grown from a Hedge 
 - The name Bridgewater arose because he (Ray) initially attempted to sell commodities from the U.S. to other countries, therefore, they were ‘bridging the waters’. However, the company moved on to focus more on being a consultancy(/asset management) firm.[^2]
 
 * How is the company funded? How much funding have they received?
-- The company is funded by capAccording to crunchbase.com The company has rasied it's most recent capital ($1.3B) from a single venture fund (Birdgewater Associates Fund III) in Nov, 2021.
+- The company was initially funded in 1987 by a Fixed Income Loan from Hilda Ochoa-Brillembourg (US $5M). 
+
+Since 1991 Bridgewater has raised several venture funds ($US ~200B) whereby they manage assets on behalf of soficsticated investors.
+
+According to crunchbase.com The company has rasied it's most recent capital ($1.3B) from a single venture fund (Birdgewater Associates Fund III) in Nov, 2021.
 
 Bridgewater also had a funding round in the form of a grant where $22M was rasied in may of 2016.[^3]
+
+Other Bridgewater funds include
+- 1991 Pure Alpha Hedge Fund
+- 1996 All Weather Hedge Fund (US $~30B)
+- Pure Alpha Major Markets Hedge Fund(US $10B)
+
+Bridgwater also publishes a white paper, called the Daily Observations, which is read by investors worldwide on a subscription basis.
 
 
 ## Business Activities:
@@ -78,8 +88,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
-```
+* Why are these technologies appropriate for your solution?git
 
 ---
 
