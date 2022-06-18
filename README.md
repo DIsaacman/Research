@@ -23,20 +23,17 @@ Bridgewater is a large financial services institute that has grown from a Hedge 
 
 ## Overview and Origin
 
-* Name of company
- - Birdgewater Associates 
+Business Name: Bridgewater Associates 
 
-* When was the company incorporated?
- - 1975
+Incorporated 1975
 
-* Who are the founders of the company?
- - Raymond Dalio
+Founder: Raymond Dalio
 
 * How did the idea for the company (or project) come about?
- - The name Bridgewater arose because he (Ray) initially attempted to sell commodities from the U.S. to other countries, therefore, they were ‘bridging the waters’. However, the company moved on to focus more on being a consultancy(/asset management) firm.[^2]
+ The name Bridgewater arose because he (Ray) initially attempted to sell commodities from the U.S. to other countries, therefore, they were ‘bridging the waters’. However, the company moved on to focus more on being a consultancy(/asset management) firm.[^2]
 
 * How is the company funded? How much funding have they received?
- - The company was initially funded in 1987 by a Fixed Income Loan from Hilda Ochoa-Brillembourg (US $5M). 
+ The company was initially funded in 1987 by a Fixed Income Loan from Hilda Ochoa-Brillembourg (US $5M). 
  
  Since 1991 Bridgewater has raised several venture funds ($US ~200B) whereby they manage assets on behalf of soficsticated investors.
  
