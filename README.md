@@ -1,4 +1,4 @@
-<!--Prepared for Homework "Case Study" for FinTech Bootcamp by Dan Isaacman-->
+<!--"Case Study" for FinTech Bootcamp by Dan Isaacman-->
 
 # Bridgewater Associates
 
