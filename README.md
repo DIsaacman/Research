@@ -54,20 +54,35 @@ Initially the company recieved funding from high networth individuals that are c
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-## Creative Use of Data
+#### Creative Use of Data
 
 The company has an edge by harnessing "principles" (logically justified decisions) into computer based programs to run simulations on vast amounts of data. by codifying succesful investment decisions and outcomes, the algoriths can assist the decision making process when buying and selling securities to make profit. The company has a significant amount of research analysts that set up theri professional relationships for succesful partnerships trhough education and information dissemination.
 
-## Organisational Transparency
+#### Organisational Transparency
 
 On an organisational level, all of the data is shared freely within the comapany. Even the conferences are recorded and readily avaialble to promote a culture where information can flow. This unique and radical transparency allows for a people centric business model where the best decisions can rise from the bottom to the top.
 
-## Risk Based Assets (Contrarian Investing)
+#### Risk Based Assets (Contrarian Investing)
 
-Bridgewater has taken a large bet on China. This may be considered particularly risky based on the informal agreements that the US and China have when it comes to the true ownership of Securities outside of China. The company's edge is a sharp focus on securing com;liant relationships with Chinese Government and Corporate Officials.
+Among Bridgewaters' contraversial investments against Europe recently is its long standing position  within the Chinese financial markets. This may be considered particularly risky based on the informal agreements that the US and China have when it comes to the true ownership of Securities outside of China. The company's edge has been a sharp focus on securing compliant relationships with Chinese Government and Corporate Officials over a long time horizon.
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Proprietary Languages [^5]
+Automated Management Systems for Decision Making
+
+Bloomberg, Refinitiv, ESG, SQL , Data Schemes
+
+AWS, Azure, GCP
+
+GO, Python, Scala, Ruby, Java, C/C++,
+
+Terraform and Kubernetes Strategic thinking
+
+CI/CD platform
+
+Excel, SharePoint, PowerPoint.  Data manipulation and coding skills are also valuable (e.g. pivot tables, macros, VBA, SQL, “R
 
 
 ## Landscape:
@@ -122,11 +137,17 @@ Sources
 [^2]: When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
 [^3]: Funding https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
 [4^]: Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analyzed](https://www.suredividend.com/bridgewater/)
+[^5] In various job adverts for roles in its engineering business, Bridgewater refers to the importance of an internal language within its technology division. Technologists at Bridgewater work on "novel languages that enable the systemization of logic," says the fund's own website. A current opening for a senior software engineer talks about Bridgewater's "own financial language" that's used to "manipulate incoming data and express top secret investment logic." [The hedge fund that's developing its own programming language](https://www.efinancialcareers.com.au/news/2022/02/bridgewater-associates-own-programming-language)
+
+---
+## Other Sources
+
 [Another Billionaire Wall Street Legend Has Changed His Tune On Bitcoin](https://www.forbes.com/sites/billybambrough/2020/12/12/another-billionaire-wall-street--legend-has-changed-his-tune-on-bitcoin/?sh=24e2725b4360v) 
 [How to have an idea meritocracy in any organization](https://www.youtube.com/watch?v=S7hNda9DVxo) 
 [Inside the world's biggest hedge fund](https://money.cnn.com/2009/03/18/news/economy/okeefe_bridgewater.fortune/index.htm)
 [Billionaire Ray Dalio Has Produced More Dollar Gains Than Any Other Hedge Fund Manager Ever](https://www.forbes.com/sites/nathanvardi/2016/01/26/billionaire-ray-dalio-has-produced-more-dollar-gains-than-any-other-hedge-fund-manager-ever-3/?sh=4cb0a53c2f35)
 [5 Best Performing Hedge Funds of 2021](https://www.insidermonkey.com/blog/5-best-performing-hedge-funds-of-2021-1027418/?singlepage=1)
+[The world's largest hedge fund is developing an automated 'coach' that acts like a personal GPS for decision-making](https://www.businessinsider.com/ray-dalio-bridgewater-automated-management-system-2017-9)
 ---
 
 ## Resources
