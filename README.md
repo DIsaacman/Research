@@ -300,7 +300,6 @@ The DAO could run on Hyperledger, IBM or other enterprise-grade software suites 
 
 
 - [Another Billionaire Wall Street Legend Has Changed His Tune On Bitcoin](https://www.forbes.com/sites/billybambrough/2020/12/12/another-billionaire-wall-street--legend-has-changed-his-tune-on-bitcoin/?sh=24e2725b4360v) 
-
 - [How to have an idea meritocracy in any organisation](https://www.youtube.com/watch?v=S7hNda9DVxo) 
 - [Inside the world's biggest hedge fund](https://money.cnn.com/2009/03/18/news/economy/okeefe_bridgewater.fortune/index.htm)
 - [Billionaire Ray Dalio Has Produced More Dollar Gains Than Any Other Hedge Fund Manager Ever](https://www.forbes.com/sites/nathanvardi/2016/01/26/billionaire-ray-dalio-has-produced-more-dollar-gains-than-any-other-hedge-fund-manager-ever-3/?sh=4cb0a53c2f35)
@@ -313,6 +312,10 @@ Done So Failing Countries Succeed](https://www.economicprinciples.org/downloads/
 - [The perculiar investment management industry](https://techcrunch.com/2021/12/08/the-peculiar-investment-management-industry/)
 - [Bridgewater - Principles and Culture](https://www.bridgewater.com/principles-and-culture)
 - [Whale Wisdom - BRIDGEWATER ASSOCIATES, LP](https://whalewisdom.com/filer/bridgewater-associates-inc)
+- [Solend’s controversial governance proposal to take over the DeFi lending protocol’s largest wallet has been invalidated after a follow-up vote.](https://decrypt.co/103330/solana-lending-dao-overturns-vote-to-take-over-at-risk-whale-wallet)
+- [Market Conditions Update — June 19, 2022 | Due to hostile market conditions, Bancor’s Impermanent Loss Protection is temporarily paused](https://blog.bancor.network/market-conditions-update-june-19-2022-e5b857b39336)
+-[The Story of the DAO — Its History and Consequences](https://medium.com/swlh/the-story-of-the-dao-its-history-and-consequences-71e6a8a551ee)
+
 
 ---
 
