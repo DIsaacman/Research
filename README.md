@@ -1,26 +1,42 @@
-<!--"Case Study" for FinTech Bootcamp by Dan Isaacman-->
+<!--FinTech Case Study by Dan Isaacman-->
 
 # Bridgewater Associates
 
+
+
 ### ***Unit 1 Homework Assignment: FinTech Case Study***
+
+
 
 ![](/Images/Bridgewater%20Logo.jpg)
 
+
+
 ## Background
 
-Bridgewater is a prominent financial services institution that has grown from a Hedge Fund to a world-class people organisation. The founder, Ray Dalio, was an early pioneer of Big Data, Machine Learning and Fintech.[^1] 
 
-Bridgewater developed a principle-based approach designed by its founder, Ray Dalio, to manage money and people. Bridgewater has an extensive portfolio of assets under management.[^4] 
 
-Although the founder has taken a step back from the company's day-to-day management, many of his principles (which have been made public in his book "Principles") have been embedded into the company culture.
+Bridgewater is a prominent financial services institution that has grown as a leading Hedge Fund and a world-class people organisation. 
 
-Of particular interest is how the company also uses data to encourage and guide governance decisions based on structured frameworks, including "Idea Meritocracy" and "Believability-Weighted Decision-Making" in the organisation's management. As a result, Bridgewater often pushes the limits of technological innovation and investment strategies because it uses code and data to drive its culture.
+Bridgewater has an extensive portfolio of assets under management.[^4] 
+
+The founder, Ray Dalio, was an early pioneer of Big Data, Machine Learning and Fintech.[^1] 
+
+Bridgewater pioneered a principle-based approach to designed systems to manage money and people. 
+
+Although the founder has taken a step back from the company's day-to-day management, many of his principles (which have been made public in his book "Principles") have been embedded into the company culture quantitively and qualatively.
+
+Of particular interest is how the company culture uses data to encourage and guide governance decisions based on structured frameworks, including "Idea Meritocracy" and "Believability-Weighted Decision-Making" in the organisation's day-to-day management. As a result, Bridgewater often operates of the boundaries of technological innovation and investment strategies, using vast amounts of data and code in productive ways.
+
 
 
 ---
 
 
+
 ## Overview and Origin
+
+
 
   Business Name: Bridgewater Associates 
 
@@ -33,17 +49,25 @@ The name Bridgewater arose because he (Ray) initially attempted to sell commodit
  
 The company received its first significant funding round in 1987 as a Fixed Income Loan from Hilda Ochoa-Brillembourg of the World Bank (US $5M). Their first large client was McDonalds, where Ray allegedly helped secure the product pricing for the classic chicken Nugget based on his extensive knowledge of commodities and futures markets.
 
-Since 1991 Bridgewater has raised several venture funds, accumulating $USD **~200B** assets under management whereby they manage assets on behalf of institutional (as opposed to retail or sophisticated) investors, including pension funds, foundations, endowments and central banks. The **minimum** investment is usually around USD $10M.
+Since 1991 Bridgewater has raised several venture funds, accumulating $USD **~200B** assets under management whereby they manage assets on behalf of institutional (as opposed to retail or sophisticated) investors, including pension funds, foundations, endowments and central banks.
+
+One example of a large client of Bridgewater is the National Australia Bank (NAB), based in Melbourne. 
+
+Customers are approximately 50% US and 50% overseas.
+
+The **minimum** investment is usually around USD $10M.
 
 Bridgewater uses a standard hedge fund model, which takes a 2% management fee of assets and 20% of yearly profits accrued from using an investment system.
+
 
 
 ### Publicly Known Funding:
 
 
+
 | Year          | Description                   | Amount (USD $)|
 | ------------- |-------------                  | -----:        |
-| 1991          |Pure Alpha Hedge Fund          | ?             |
+| 1991          |Pure Alpha Hedge Fund          |  ?            |
 | 1996          |All Weather Hedge Fund         | ~20 B         |
 | 2003          |Alpha Major Markets Hedge Fund | ~10 B         | 
 | 2011          |Bridgewater Associates Fund III|  ?            |
@@ -52,66 +76,90 @@ Bridgewater uses a standard hedge fund model, which takes a 2% management fee of
 
 
   
-Bridgwater publishes a white paper called the Daily Observations, which is read by investors worldwide on a subscription basis.
+Bridgwater also publishes a white paper called the "Daily Observations", which is read by investors worldwide on a subscription basis.
+
 
 
 ## Business Activities:
 
 
-A Hedge fund's purpose is to maximise investor returns while minimising risk. The average investor in a given sector cannot beat a low-cost index after expenses. Hedge funds usually employ active and passive capital management to beat the market returns while indirectly exposing clients to a diverse and potentially uncorrelated basket of assets.
 
-Bridgewater has set itself apart over time for delivering some of the best returns in the industry. The company manages capital on behalf of private institutional investors to hedge against market risk. Bridgewater is known for taking significant positions in Securities, including Equities, Bonds, Currencies, and Treasury Bills. The company also produces a stream of analysis and research for its clients.
+A Hedge fund's purpose is to maximise investor returns while minimising risk. The average investor in a given sector cannot beat a low-cost index after expenses. 
 
-Initially, the company received funding from high-net-worth individuals classified as sophisticated investors. However, the clientele now consists only of Pension Funds and Sovereign Wealth Funds. 
+Hedge funds usually employ active and passive capital management to beat the market returns while indirectly exposing clients to a diverse and potentially uncorrelated basket of assets.
 
-These large organisations' endowments allow Bridgewater to manage and custody their assets, usually on behalf of a larger client base. One example of a large client of Bridgewater is the National Australia Bank (NAB), based in Melbourne. Customers are approximately 50% US and 50% overseas.
+Bridgewater has set itself apart over time for delivering some of the best returns in the industry. 
+
+The company manages capital on behalf of private institutional investors to hedge against market risk. Bridgewater is known for taking significant positions in Securities, including Equities, Bonds, Currencies, and Treasury Bills. The company also produces a stream of analysis and research for its clients.
+
+
 
 ---
 
+
+
 ### Unique Selling Points 
+
 
 
 #### Creative Use of Data
 
 
- The company has an edge by harnessing "principles" (logically justified decisions) into computer-based programs to run simulations on vast amounts of data. By codifying successful investment decisions and outcomes, the algorithms can assist the decision-making process when buying and selling securities for profit. In addition, the company has a significant amount of research analysts that set up their professional relationships for successful partnerships through education and information dissemination.
+
+ The company has an edge by harnessing "principles" (logically justified decisions) into computer-based programs to run simulations on vast amounts of data. By codifying successful investment decisions and outcomes, the algorithms can assist the decision-making process when buying and selling securities for profit. 
+
+
 
 #### Organisational Transparency
+
 
 
  On an organisational level, almost all data is shared freely within the company. Even the conferences are recorded and readily available to promote a culture where information can flow. This unique and radical transparency allows for a people-centric business model where the best decisions can rise from the bottom to the top.
 
 
+
 #### Risk Based Assets (Contrarian Investing)
 
 
- Strategically, the focus of a large hedge fund is on currency and fixed income markets in contrast to buying individual shares in a company. Bridgewater uses quantitive risk management and diversification models by buying and/or short selling to maintain a risk target level. The exact investment portfolios are primarily secretive as the industry is competitive and intellectual property is publicly available.
 
- Bridgewaters' recent controversial investments against Europe are its long-standing position within the Chinese financial markets. Within the USA, investments in Chinese markets may be considered particularly risky based on the informal agreements the US and China have regarding the actual ownership of Securities outside of China. The company's edge has been a sharp focus on securing respectful relationships with the Chinese Government and Corporate Officials over a long time horizon.[^6]
+ Strategically, the focus of a large hedge fund is on currency and fixed income markets in contrast to buying individual shares in a company. 
+ 
+ Bridgewater uses quantitive risk management and diversification models by buying and/or short selling to maintain a risk target level. The exact investment portfolios are primarily secretive as the industry is competitive and the investment intellectual property is not publicly available.
+
+ Bridgewaters' is also known for taking controversial investments against Europe and favouring a long-standing position within the Chinese financial markets. 
+ 
+ Within the USA, investments in Chinese markets may be considered particularly risky based on the informal agreements the US and China have regarding the true ownership of Securities outside of China. 
+ 
+ The company's edge has been an active approach with a sharp focus on securing respectful relationships with the Chinese Government and Corporate Officials over a long time horizon.[^6]
+
 
 
 ### Tech Stack
 
 
+
 On the company's website, under "Job Descriptions", there are several skills and tech stacks that Bridgewater is using. 
 
-Besides the Proprietary Languages [^5] and multiple patents for technologies the company is known to use:
+Besides the Proprietary Languages [^5] and multiple patents for technologies; the company is known to use:
 
 - Proprietary | Automated Management Systems for Decision Making
 - Data Collection, Manipulation & Visualisation | Bloomberg, Refinitiv, ESG, SQL, Data Schemes
 - Cloud Infrastructure | AWS, Azure, GCP
 - Common Programming Languages | GO, Python, Scala, Ruby, Java, C/C++
+- Terraform and Kubernetes Strategic thinking
+- CI/CD platforms
+- Administrative tools -Excel, SharePoint, PowerPoint.  
+- Pivot tables, macros, VBA, SQL, “R
 
-Terraform and Kubernetes Strategic thinking
-
-CI/CD platform
-
-Administrative tools -Excel, SharePoint, PowerPoint.  Data manipulation and coding skills are also valuable (e.g. pivot tables, macros, VBA, SQL, “R
 
 
 ## Landscape:
 
+
+
 #### Bridgewater has expanded its base of operations to include multiple FinTech domains including, but not limited to:
+
+
 
 - Capital Investment
 - Investment Management
@@ -119,10 +167,15 @@ Administrative tools -Excel, SharePoint, PowerPoint.  Data manipulation and codi
 - Robo-advising
 
 
+
 ### Market Trends & Innovations
 
 
+
 #### Trends
+
+
+
 - Markets that Hedge Funds participate in have changed in numerous ways
   - More retail investors participate due to ease of onboarding through online brokering.
   - Additional derivatives growing in popularity, such as Carbon Credits
@@ -135,7 +188,11 @@ Administrative tools -Excel, SharePoint, PowerPoint.  Data manipulation and codi
   - Educated clients have access to all information at all times with the decentralisation of information.
   - Subcontracted workforce in place to manage project-based assignments.
 
+
+
 #### Innovations
+
+
 
 - Improvement of communication technologies
   - Simplifying Video Conferencing using General Purpose Devices with Software Codecs such as Microsoft Teams and Zoom
@@ -145,10 +202,13 @@ Administrative tools -Excel, SharePoint, PowerPoint.  Data manipulation and codi
   - Cloud-based server infrastructure allows for scalable, on-demand infrastructure and network requirements.
 
 
+
   ---
 
 
+
 #### Other major companies in this domain include:
+
 
 
 - J.P. Morgan Chase
@@ -164,14 +224,16 @@ Administrative tools -Excel, SharePoint, PowerPoint.  Data manipulation and codi
 - Rima Senvest Management
 
 
+
 ## Results
 
 
-What has been the business impact of this company so far?
 
 In 2005 Bridgewater became the largest hedge fund in terms of assets under management. They have consistently led by setting the industry benchmark for financial returns on investment and their operation as a large organisation.[^7]
 
-In 2007, the financial decisions placed the company in a fortunate position to profit from the impending 2008 financial crisis. Ray Dalio studied the history of market collapses by analysing the economic changes over 500 years. In addition, Ray published a paper in 2008 titled "How the Economic Machine Works: A Template for Understanding What is Happening Now", an essay assessing the potential of various economies by various criteria.
+In 2007, the financial decisions placed the company in a fortunate position to profit from the impending 2008 financial crisis. 
+
+Ray Dalio studied the history of market collapses by analysing the economic changes over 500 years. In addition, Ray published a paper in 2008 titled "How the Economic Machine Works: A Template for Understanding What is Happening Now", an essay assessing the potential of various economies by various criteria.
 
 A [video](https://www.youtube.com/watch?v=PHe0bXAIuk0) of the same name exists and is crucial in the understanding of market cycles as they relate to debit and credit.
 
@@ -182,10 +244,10 @@ Billions of dollars affect moving markets, and large hedge funds have a unique r
 The company is a pioneer of automated decision-making to save time and mitigate human emotions when dealing with fear, greed and biases.
 
 
+
 ## Recommendations
 
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 The world is changing.
 
@@ -193,7 +255,7 @@ Information is becoming more decentralised, and the prospect of cutting the inte
 
 Considering how much time, research and money have likely gone into developing the governance structures and technology within Bridgewater, it would be interesting to see if the emergence of the DAO structure may influence an organisation such as Bridgewater.
 
-It is still early for the concept of a Decentralised Autonomous Organise (DAO), and I think Bridgewater would be an ideal candidate for becoming a pioneer in the space.
+It is still early for the concept of a Decentralised Autonomous Organise (DAO), but I strongly believe that Bridgewater would be an ideal candidate for becoming a pioneer in the governance space.
 
 If offered as part of their consultancy package, the company could gain additional revenue to cover operating expenses while promoting the emergence of an entirely new industry around complex decision-making frameworks.
 
@@ -201,13 +263,16 @@ The "Idea Meritocracy" and "Believability-Weighted Decision-Making" frameworks c
 
 The additional layer of transparency within private organisations solidifies the process of governance-based decision-making.
 
-The DAO could run on Hyperledger by IBM or other enterprise-grade software suits for private companies and could also easily be modelled on public ledgers such as the Ethereum Virtual Machine.
+The DAO could run on Hyperledger, IBM or other enterprise-grade software suites for private companies and could also easily be modelled on public ledgers such as the Ethereum Virtual Machine.
+
 
 
 ---
 
 
-Sources
+
+### Sources
+
 
 
 [^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history while also systematically building one of the great people organisations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
@@ -226,10 +291,13 @@ Sources
 10 Latest Stock Picks of Billionaire Ray Dalio](https://finance.yahoo.com/news/10-latest-stock-picks-billionaire-160802380.html#:~:text=Bridgewater%20Associates'%20average%20return%20stood,500%20during%20the%20same%20period.)
 
 
+
 ---
 
 
 ## Other Sources
+
+
 
 - [Another Billionaire Wall Street Legend Has Changed His Tune On Bitcoin](https://www.forbes.com/sites/billybambrough/2020/12/12/another-billionaire-wall-street--legend-has-changed-his-tune-on-bitcoin/?sh=24e2725b4360v) 
 
@@ -248,91 +316,5 @@ Done So Failing Countries Succeed](https://www.economicprinciples.org/downloads/
 
 ---
 
-## Resources
 
-### FinTech Companies and Domains
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
-
-* [The 11 Biggest FinTech Companies in America 2021](https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13)
-
-* [The Most Innovative FinTech Companies in 2021, Forbes](https://www.forbes.com/fintech/2021/#12338a0831a6)
-
-* [World FinTech Report, Capgemini](https://fintechworldreport.com/)
-
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
-
-* [Hottest FinTech Startups, Business Insider](https://www.businessinsider.com/top-fintech-startup-companies)
-
-* [Top 10 FinTech Companies to Watch, TheStreet](https://www.thestreet.com/technology/fintech-companies-14891479)
-
-* [33 FinTech Companies and Startups to Keep in Your Back Pocket, Built In](https://builtin.com/fintech/fintech-companies-startups-to-know)
-
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-### Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
----
-### Requirements
-
-#### Company Information and Business Activities  (25 points)
-
-##### To receive all points, you must:
-
-* Select a company in the FinTech domain to research. (5 points)
-* Provide a detailed description of the company's domain, audience, solution and business metrics. (10 points)
-* Present company information in a clear and well-organised manner. (10 points)
-
-#### FinTech Domain Trends (20 points)
-
-##### To receive all points, your code must:
-
-* Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
-* Identify several major competitors. (10 points)
-
-#### Research Depth (15 points)
-
-##### To receive all points, your code must:
-
-* Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
-* Specifically quote sources and reference them clearly and accurately. (10 points)
-
-#### Recommendations (20 points)
-
-##### To receive all points, your code must:
-
-* Thoroughly explain company recommendations. (10 points)
-* Base company recommendations in solid research. (10 points)
-
-#### Report Presentation (20 points)
-
-##### To receive all points, your report must include:
-
-* Present the report in a ReadME.md file in a Github repository. (10 points)
-* The report style showcases the writer's expertise and builds credibility. (10 points)
-
-- - -
