@@ -271,30 +271,6 @@ The DAO could run on Hyperledger, IBM or other enterprise-grade software suites 
 
 
 
-### Sources
-
-
-
-[^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history while also systematically building one of the great people organisations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
-
-[^2]: When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
-
-[^3]: Funding https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
-
-[^4]: Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analysed](https://www.suredividend.com/bridgewater/)
-
-[^5]: In various job adverts for roles in its engineering business, Bridgewater refers to the importance of an internal language within its technology division. Technologists at Bridgewater work on "novel languages that enable the systemisation of logic," says the fund's own website. A current opening for a senior software engineer talks about Bridgewater's "own financial language" that's used to "manipulate incoming data and express top secret investment logic." [The hedge fund that's developing its own programming language](https://www.efinancialcareers.com.au/news/2022/02/bridgewater-associates-own-programming-language)
-
-[^6]: Ray Dalio, the former CEO of Bridgewater has produced incredible content and his most recent book was published in November 2021 titled "The Changing World Order: Why Nations Succeed and Fail" [Ray Dalio caught some heat for recent comments on Chinese human rights. Here's what he said about the matter in his new book.](https://markets.businessinsider.com/news/stocks/ray-dalio-new-book-comments-on-chinese-human-rights-2021-12)
-
-[^7]: Bridgewater Associates’ average return stood at 12% in the past 28 years, compared with a 7% return of S&P 500 during the same period. - 2021 [Insider Monkey
-10 Latest Stock Picks of Billionaire Ray Dalio](https://finance.yahoo.com/news/10-latest-stock-picks-billionaire-160802380.html#:~:text=Bridgewater%20Associates'%20average%20return%20stood,500%20during%20the%20same%20period.)
-
-
-
----
-
-
 ## Other Sources
 
 
@@ -317,7 +293,30 @@ Done So Failing Countries Succeed](https://www.economicprinciples.org/downloads/
 -[The Story of the DAO — Its History and Consequences](https://medium.com/swlh/the-story-of-the-dao-its-history-and-consequences-71e6a8a551ee)
 
 
+
 ---
+
+
+
+### Appendix
+
+
+
+[^1]: In Bridgewater, Dalio has built one of the world’s preeminent investment houses, delivering best-in-class returns more consistently than any other hedge fund in history while also systematically building one of the great people organisations of our time. [Bridgewater's Ray Dalio: Quiet Pioneer of Big Data, Machine Learning, and Fintech](https://www.toptal.com/finance/business-plan-consultants/ray-dalio-principles)
+
+[^2]: When he was learning about commodities such as grain, he would learn about every single part of the business, so he could predict every detail and the yields this would lead to. This would later mean he could predict how much cattle would be eating the grain and therefore how much grain would be sold and produced...To him, it was all just a machine of logical cause-effect relationships. These relationships are what dictated his decision-making rules and principles, which he recorded each time...He used to write on the back of envelopes and other bits of paper until he got his first PC and was able to start programming what he needed. This way he could work out exactly how prices would move and what would be best for him to invest in. [The Story of Ray Dalio](https://duomoinitiative.medium.com/the-story-of-ray-dalio-adfdd2551a60)
+
+[^3]: Funding https://www.crunchbase.com/organization/bridgewater-associates/investor_financials
+
+[^4]: Bridgewater has grown into the largest hedge fund in the world under the leadership of Ray Dalio and his principles. The company’s holdings structure is not extraordinarily complex, with the fund holding mostly traditional equities. [Bridgewater Associates’ 641 Stock Portfolio | Top 10 Holdings Analysed](https://www.suredividend.com/bridgewater/)
+
+[^5]: In various job adverts for roles in its engineering business, Bridgewater refers to the importance of an internal language within its technology division. Technologists at Bridgewater work on "novel languages that enable the systemisation of logic," says the fund's own website. A current opening for a senior software engineer talks about Bridgewater's "own financial language" that's used to "manipulate incoming data and express top secret investment logic." [The hedge fund that's developing its own programming language](https://www.efinancialcareers.com.au/news/2022/02/bridgewater-associates-own-programming-language)
+
+[^6]: Ray Dalio, the former CEO of Bridgewater has produced incredible content and his most recent book was published in November 2021 titled "The Changing World Order: Why Nations Succeed and Fail" [Ray Dalio caught some heat for recent comments on Chinese human rights. Here's what he said about the matter in his new book.](https://markets.businessinsider.com/news/stocks/ray-dalio-new-book-comments-on-chinese-human-rights-2021-12)
+
+[^7]: Bridgewater Associates’ average return stood at 12% in the past 28 years, compared with a 7% return of S&P 500 during the same period. - 2021 [Insider Monkey
+10 Latest Stock Picks of Billionaire Ray Dalio](https://finance.yahoo.com/news/10-latest-stock-picks-billionaire-160802380.html#:~:text=Bridgewater%20Associates'%20average%20return%20stood,500%20during%20the%20same%20period.)
+
 
 
 
